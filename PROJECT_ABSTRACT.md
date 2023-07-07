@@ -1,3 +1,5 @@
+Abstract:
+========
 This is a simple java application developed by using core java and jdbc concepts. This is specifically developed for school,college or any educational institution. Specifically this application meant for maintaining student records.You can easily access this application on your system.
 
 Users:
